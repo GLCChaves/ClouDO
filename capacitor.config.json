@@ -1,0 +1,7 @@
+{
+  "appId": "com.cloudo.app",
+  "appName": "cloudo",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}
